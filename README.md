@@ -1,5 +1,6 @@
-# Titanic_kaggle
+# Titanic: Machine Learning from Disaster
 Titanic survival problem from Kaggle.
+https://www.kaggle.com/c/titanic
 
 # DEPENDENCY
 1) numpy
@@ -13,9 +14,6 @@ Titanic survival problem from Kaggle.
 3) Data extraction
 4) Feature engineering
 5) Predictive model
-
-# LINK : 
-https://www.kaggle.com/c/titanic
 
 # OUTPUT :
 A generated CSV file within script to predict the test data in test.csv. Final output score 0.84.
