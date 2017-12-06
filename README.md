@@ -17,13 +17,15 @@ Titanic survival problem from Kaggle.
 
 # LINK : 
 https://www.kaggle.com/c/titanic
+
 # OUTPUT :
 A generated CSV file within script to predict the test data in test.csv. Final output score 0.84.
 
 # HOW TO RUN ?
 1) Download the train and test csv files from link.
-2) Change the path while data loading in script
+2) Change the path while data loading in script.
 3) After running change the path of final output file.
+4) For plotting data uncoomment the lines.
 
 # USED SOFTWARES & ENVIRONMENTS
 1) Ubuntu Gnome (16.04 LTS)
