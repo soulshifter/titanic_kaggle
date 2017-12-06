@@ -8,12 +8,11 @@ Titanic survival problem from Kaggle.
 4) pandas
 
 # Basics of :
-1) Data merging
-2) Data describing
-3) Data plotting
-4) Data extraction
-5) Feature engineering
-6) Predictive model
+1) Data wrangling
+2) Data plotting
+3) Data extraction
+4) Feature engineering
+5) Predictive model
 
 # LINK : 
 https://www.kaggle.com/c/titanic
